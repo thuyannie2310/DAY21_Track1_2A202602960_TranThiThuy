@@ -2,7 +2,7 @@
 
 - **Họ và tên:** Trần Thị Thuý
 - **MSSV / mã học viên:** 2A202602960
-- **Lớp:** K04 — Track 1
+- **Lớp:** L34A — K04, Track 1
 - **Ngành đã chọn:** Content creator — AI hỗ trợ tạo nội dung
 - **Ngày hoàn thành:** 07/10/2026
 
